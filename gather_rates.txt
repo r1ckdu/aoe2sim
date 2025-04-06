@@ -1,0 +1,13 @@
+Type 	Resource 	Notes
+Berries 	.31 	
+Sheep 	.33 	
+Farm 	.32 	
+Fish Trap 	.43 	(same as land farm, but 715 food total (compared to 175 for un-upgraded farm, 550 for crop rotated farm) and 100 wood (plus 75 for fishing ship) rather than 60 (40 if Teutons))
+# Shore Fish with Villagers 	21 	
+# Fishing Ships 	22 	
+Boar 	.41 	(not considering time to pull the boar, and assuming no villager deaths)
+Deer 	.41 	if close to TC/Mill, 17 if at a typical distance from TC (animal spawn points are predictable)
+~~~~~~~~ 	~~ 	
+Lumber 	.39 	
+Gold mining 	.39 	
+Stone 	.36 	

@@ -1,0 +1,2 @@
+class Civillian:
+    name = "Civilian"
